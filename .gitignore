@@ -1,0 +1,8 @@
+/backend/venv
+/frontend/venv
+/backend/Archivos/
+
+# py cachce
+/backend/__pycache__
+/frontend/__pycache__
+/frontend/delete
